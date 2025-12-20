@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="css/index.css">
+
+</head>
+
+<body>
+    <header>
+        <a href="index.html">
+            <div>
+                <img src="/images/logo.png" alt="roti">
+                <p>rotiku</p>
+            </div>
+        </a>
+        <nav>
+            <input type="checkbox" id="hamburger-menu">
+            <label for="hamburger-menu" class="hamburger">&#9776;</label>
+            <ul>
+                <li><a href="index.html">Utama</a></li>
+                <li><a href="about.html">Tentang</a></li>
+                <li><a href="products.html">Produk</a></li>
+                <li><a href="contact.html">Kontak</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="product-container">
+            <h2>Pilihan Roti</h2>
+            <div class="card-product-container">
+            </div>
+        </section>
+    </main>
+    <footer id="footer">
+        <p>&copy;</p>
+    </footer>
+    <script src="/js/getProducts.js"></script>
+    <script src="/js/index.js"></script>
+</body>
+
+</html>

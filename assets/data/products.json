@@ -1,0 +1,11 @@
+[
+    {"id": 1, "name": "Roti Gembug", "description": "ukuran besar, dan gembung, dijamin enak", "image": "./assets/images/product1.jpeg"},
+    {"id": 2, "name": "Roti Bulat", "description": "ukuran sedang, bulat seperti doraemon", "image": "./assets/images/product2.jpg"},
+    {"id": 3, "name": "Roti Gandum", "description": "pas untuk sarapan, apalagi dibarengi susu", "image": "./assets/images/product3.jpg"},
+    {"id": 4, "name": "Roti O", "description": "produk terbaru kami, rasa coklat dan dijamin enak", "image": "./assets/images/product4.jpg"},
+    {"id": 5, "name": "Roti Ku", "description": "best seller kami", "image": "./assets/images/product5.webp"},
+    {"id": 6, "name": "Roti Keju", "description": "berlapis keju tebal, cocok untuk pecinta keju", "image": "./assets/images/product6.jpg"},
+    {"id": 7, "name": "Roti Pisang Coklat", "description": "isi pisang manis dan lelehan coklat lembut", "image": "./assets/images/product7.jpeg"},
+    {"id": 8, "name": "Roti Sobek", "description": "tekstur empuk dan mudah disobek, favorit keluarga", "image": "./assets/images/product8.jpg"},
+    {"id": 9, "name": "Roti Tawar", "description": "roti klasik untuk segala suasana, cocok untuk sandwich", "image": "./assets/images/product9.avif"}
+]
