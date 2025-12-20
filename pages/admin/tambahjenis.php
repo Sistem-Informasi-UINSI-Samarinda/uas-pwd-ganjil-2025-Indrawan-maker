@@ -40,7 +40,7 @@ if (!isset($_SESSION['user_id'])) {
             <input class="input-tambah" type="text" name="nama_jenis">
             <span class="highlight"></span>
             <span class="bar"></span>
-            <label class="label-tambah" for="">Nama Jenis Roti</label>
+            <label class="label-tambah" for="">Nama Jenis</label>
           </div>
 
 
